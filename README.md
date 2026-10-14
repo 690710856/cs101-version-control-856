@@ -5,3 +5,8 @@
 ## About Me
 - Name: Wipawee Phadiankhonburi
 - Major: Computer Science
+
+## My Learning Goals
+- Learn C programming
+- Learn Git and GitHub
+- Build a personal website
